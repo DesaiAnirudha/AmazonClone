@@ -1,0 +1,19 @@
+*{
+    color: rgb(239, 47, 25);
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    padding: 25px;
+    margin: 25px;
+    /* display: inline; */
+    display: inline-block;
+}
+
+#Box2{
+/* display: none; */
+visibility: hidden;
+background-color: aqua;
+}

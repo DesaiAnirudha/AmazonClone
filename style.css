@@ -1,0 +1,28 @@
+#Heading{
+    text-align:center;
+    height: 115px;
+    width: 150px;
+    background-color: aqua;
+    margin-left: 25px;
+    padding: 10px;
+}
+
+#para{
+    height: 150px;
+    background-color: antiquewhite;
+    border-color: blueviolet;
+    border-style: groove;
+    border-width: 2px;
+    padding: 15px;
+    margin: 15px;
+
+}
+
+#border{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(246, 250, 186);
+    border-color: rgb(234, 91, 91);
+    border-style: dotted;
+    border-width: 3px;
+}
